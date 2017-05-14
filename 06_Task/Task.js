@@ -64,9 +64,9 @@ let d = function () {
 	return me;
 };
 
-console.log(a());
-console.log(b());
-console.log(c());
-console.log(d());
-let dObj = d();
-console.log(dObj.f4(1));
+// console.log(a());
+// console.log(b());
+// console.log(c());
+// console.log(d());
+// let dObj = d();
+// console.log(dObj.f4(1));
